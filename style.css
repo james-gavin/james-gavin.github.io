@@ -18,6 +18,12 @@ body, html {
     bottom: 0;
     left: 16px;
   }
+
+  .bottomright {
+      position: fixed;
+      bottom: 0;
+      right 0;
+}
   
   .middle {
     position: absolute;
